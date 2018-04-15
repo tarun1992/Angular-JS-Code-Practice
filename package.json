@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"Learn npm and node\"",
+  "main": "index.html",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "https://github.com/tarun1992/Angular-JS-Code-Practice.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarun1992/Angular-JS-Code-Practice.git"
+  },
+  "author": "tarun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarun1992/Angular-JS-Code-Practice/issues"
+  },
+  "homepage": "https://github.com/tarun1992/Angular-JS-Code-Practice#readme"
+}
